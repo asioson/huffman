@@ -12,3 +12,21 @@ The huff file has the following format:
        b. frequency counts of 256 byte values ((4 bytes, little-endian) x 256)
     2. Compressed data using huffman coding
 
+Usage :
+
+    ./compress.py file.in
+
+    ./decompress.py file.in.huff
+
+
+Notes :
+ 
+     python3 is assumed to be located in /usr/local/bin/python3
+
+To make the compress.py and decompress.py executable, execute the following on a Unix/Linux/MacOS bash terminal
+
+     chmod +x compress.py
+
+     chmod +x decompress.py
+
+
