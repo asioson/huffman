@@ -2,7 +2,7 @@
 
 allan.sioson@gmail.com
 
-This is my implementation of Huffman coding as a class python. Driver programs
+This is my implementation of Huffman coding as a class in python. Driver programs
 are provided to demonstrate compression and decompression.
 
 The huff file has the following format:
