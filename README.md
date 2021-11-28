@@ -3,7 +3,9 @@
 allan.sioson@gmail.com
 
 This is my implementation of Huffman coding as a class in python. Driver programs
-are provided to demonstrate compression and decompression.
+are provided to demonstrate compression and decompression.  The compression program
+takes in a file (text or binary) and produce a compressed file with the '.huff' 
+extension. The huff file is bit 0 padded.
 
 The huff file has the following format:
 
